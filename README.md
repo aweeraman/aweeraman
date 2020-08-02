@@ -1,5 +1,3 @@
-![banner](https://raw.githubusercontent.com/aweeraman/aweeraman/master/banner_strip.png)
-
 ## Anuradha Weeraman
 #### Free & Open Source Software Contributor, [Software Architect](https://www.linkedin.com/in/aweeraman), [Debian Developer](https://qa.debian.org/developer.php?login=anuradha)
 
